@@ -27,6 +27,10 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:12345nac@database
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #db = SQLAlchemy(app)
 
+app.config['SQLALCHEMY_POOL_SIZE'] = 10
+app.config['SQLALCHEMY_MAX_OVERFLOW'] = 5
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
 # Inicializa SQLAlchemy
 DatabaseManager.init_app(app) 
 
@@ -898,4 +902,4 @@ def stop_stream():
 if __name__ == '__main__':
     # Crear tablas en la base de datos
     DatabaseManager.crear_tablas(app)
-    socketio.run(app, debug=True)
+    socketio.run(app, host="0.0.0.0", port=5000)
