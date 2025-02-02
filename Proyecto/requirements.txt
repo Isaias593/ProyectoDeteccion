@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-socketio
+flask-sqlalchemy
+ultralytics
+fpdf
+xlsxwriter
+werkzeug
+opencv-python-headless
+deep-sort-realtime
+numpy
+psycopg2-binary
+eventlet
+pandas
+
