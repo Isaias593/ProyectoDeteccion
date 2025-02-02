@@ -1,5 +1,7 @@
 venv/
+__pycache__/
 *.pt
 *.dll
 *.lib
-__pycache__/
+*.pyd
+
