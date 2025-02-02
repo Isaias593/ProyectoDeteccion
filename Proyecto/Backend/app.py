@@ -23,7 +23,7 @@ app = Flask(
 CORS(app)
 socketio = SocketIO(app, cors_allowed_origins="*")
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:usuario@localhost:5432/Proyectodeteccion' 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:12345nac@database-1.cvem2qsqaitl.us-east-1.rds.amazonaws.com:5432/database-1'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #db = SQLAlchemy(app)
 
