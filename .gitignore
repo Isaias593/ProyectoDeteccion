@@ -3,5 +3,4 @@ __pycache__/
 *.pt
 *.dll
 *.lib
-*.pyd
 
