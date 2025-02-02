@@ -1,0 +1,9 @@
+Reporte de Detección de Vehículos
+
+ID: 1, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 99.10%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 2, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 96.30%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 3, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 95.97%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 4, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 91.92%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 5, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 87.15%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 6, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: automovil, Confianza: 71.87%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s
+ID: 7, Nombre: images.jpg, Ubicación: uploads\images.jpg, Tipo: bus, Confianza: 46.13%, Fecha/Hora: 12/1/2025 21:08:54, Tiempo: 1.75s

@@ -1,0 +1,34 @@
+Reporte de Detección de Vehículos
+
+ID: 1, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 96.01%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 2, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 93.15%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 3, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 89.40%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 4, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 89.16%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 5, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 88.55%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 6, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 81.95%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 7, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 81.52%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 8, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 78.63%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 9, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 75.57%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 10, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 73.29%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 11, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 70.19%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 12, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 68.37%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 13, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 65.43%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 14, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 63.89%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 15, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 63.01%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 16, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 62.14%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 17, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 58.27%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 18, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 57.91%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 19, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 57.73%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 20, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 55.63%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 21, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 49.70%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 22, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 46.25%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 23, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 44.94%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 24, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 44.41%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 25, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 31.21%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 26, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 30.22%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 27, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 30.21%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 28, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 29.76%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 29, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 28.86%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 30, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 28.63%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 31, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 26.59%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s
+ID: 32, Nombre: Trafico-Guayaquil.jpg, Ubicación: uploads\Trafico-Guayaquil.jpg, Tipo: automovil, Confianza: 26.57%, Fecha/Hora: 18/1/2025 19:28:01, Tiempo: 1.88s

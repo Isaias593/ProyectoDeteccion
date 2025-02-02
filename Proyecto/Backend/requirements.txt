@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-socketio
+ultralytics
+fpdf
+xlsxwriter
+werkzeug
+opencv-python-headless
+deep-sort-realtime

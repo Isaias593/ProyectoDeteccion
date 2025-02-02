@@ -1,0 +1,35 @@
+Reporte de Detección de Vehículos
+
+ID: 1, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 96.01%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 2, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 93.15%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 3, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 89.40%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 4, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 89.16%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 5, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 88.55%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 6, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 81.95%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 7, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 81.52%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 8, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 78.63%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 9, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 75.57%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 10, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 73.29%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 11, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 70.19%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 12, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 68.37%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 13, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 65.43%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 14, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 63.89%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 15, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 63.01%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 16, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 62.14%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 17, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 58.27%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 18, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 57.91%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 19, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 57.73%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 20, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 55.63%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 21, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 49.70%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 22, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 46.25%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 23, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 44.94%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 24, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 44.41%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 25, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 31.21%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 26, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 30.22%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 27, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 30.21%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 28, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 29.76%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 29, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 28.86%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 30, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 28.63%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 31, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 27.33%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 32, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 26.59%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss
+ID: 33, Nombre: 000015.jpg, Ubicación: uploads\000015.jpg, Tipo: automovil, Confianza: 26.57%, Fecha/Hora: 26/1/2025 8:14:20, Tiempo: 0.19 ss

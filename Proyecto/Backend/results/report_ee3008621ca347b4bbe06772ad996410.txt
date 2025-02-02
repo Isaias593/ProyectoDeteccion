@@ -1,0 +1,34 @@
+Reporte de Detección de Vehículos
+
+ID: 1, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 96.01%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 2, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 93.15%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 3, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 89.40%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 4, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 89.16%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 5, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 88.55%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 6, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 81.95%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 7, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 81.52%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 8, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 78.63%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 9, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 75.57%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 10, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 73.29%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 11, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 70.19%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 12, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 68.37%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 13, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 65.43%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 14, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 63.89%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 15, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 63.01%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 16, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 62.14%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 17, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 58.27%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 18, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 57.91%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 19, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 57.73%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 20, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 55.63%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 21, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 49.70%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 22, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 46.25%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 23, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 44.94%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 24, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 44.41%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 25, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 31.21%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 26, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 30.22%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 27, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 30.21%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 28, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 29.76%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 29, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 28.86%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 30, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 28.63%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 31, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 26.59%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
+ID: 32, Nombre: tratratra.jpg, Ubicación: uploads\tratratra.jpg, Tipo: automovil, Confianza: 26.57%, Fecha/Hora: 18/1/2025 20:07:49, Tiempo: 0.19s
