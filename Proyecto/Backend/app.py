@@ -12,8 +12,6 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.sql import text
 from DatabaseManager import db, Detection, DatabaseManager  # Asegúrate de importar correctamente
 import json
-
-
 # Configuración de Flask
 app = Flask(
     __name__,
@@ -23,13 +21,9 @@ app = Flask(
 CORS(app)
 socketio = SocketIO(app, cors_allowed_origins="*")
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:12345nac@database-1.cvem2qsqaitl.us-east-1.rds.amazonaws.com:5432/database-1'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:usuario@localhost:5432/Proyectodeteccion' 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #db = SQLAlchemy(app)
-
-app.config['SQLALCHEMY_POOL_SIZE'] = 10
-app.config['SQLALCHEMY_MAX_OVERFLOW'] = 5
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # Inicializa SQLAlchemy
 DatabaseManager.init_app(app) 
@@ -902,4 +896,4 @@ def stop_stream():
 if __name__ == '__main__':
     # Crear tablas en la base de datos
     DatabaseManager.crear_tablas(app)
-    socketio.run(app, host="0.0.0.0", port=5000)
+    socketio.run(app, debug=True)
