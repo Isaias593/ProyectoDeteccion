@@ -1,55 +1,50 @@
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
-from sqlalchemy import Column, Integer, String, DateTime, Float, Boolean
-from sqlalchemy.dialects.postgresql import JSON  # Para usar JSON en PostgreSQL
+from sqlalchemy import Column, Integer, String, DateTime, Enum
+from enum import Enum as PyEnum
 
-# Inicialización de SQLAlchemy con mejores opciones de sesión
-db = SQLAlchemy(session_options={"autocommit": False, "autoflush": False})
+# Inicialización de SQLAlchemy
+db = SQLAlchemy()
 
 # Definición de la tabla "detections"
 class Detection(db.Model):
     __tablename__ = 'detections'
-    
-    id = db.Column(Integer, primary_key=True)
-    filename = db.Column(String(256))
-    location = db.Column(String(512))
-    vehicle_type = db.Column(String(64))
-    confidence = db.Column(Float)
-    timestamp = db.Column(DateTime, default=datetime.utcnow)  # Fecha automática
-    processing_time = db.Column(Float)
-    processed = db.Column(Boolean, default=False)
-    bbox = db.Column(JSON)  # Almacena bbox como JSON nativo en PostgreSQL
+    id = db.Column(db.Integer, primary_key=True)
+    filename = db.Column(db.String(256))
+    location = db.Column(db.String(512))
+    vehicle_type = db.Column(db.String(64))
+    confidence = db.Column(db.Float)
+    timestamp = db.Column(db.DateTime)
+    processing_time = db.Column(db.Float)
+    processed = db.Column(db.Boolean)
+    bbox = db.Column(db.String)  # Guarda las coordenadas como una cadena JSON
 
     def __repr__(self):
-        return f"<Detection {self.vehicle_type} ({self.confidence:.2f})>"
+        return f"<Detection {self.vehicle_type} ({self.confidence})>"
 
-# Clase para gestionar la base de datos
+
+#guardas imagenes
+
+    
+    
+# Clase para gestionar la creación de tablas
 class DatabaseManager:
     @staticmethod
     def init_app(app):
-        """Inicializa SQLAlchemy con la aplicación Flask."""
+        """Inicializa SQLAlchemy con la aplicación."""
         db.init_app(app)
 
     @staticmethod
     def crear_tablas(app):
-        """Crea las tablas en la base de datos si no existen."""
+        """Crea las tablas en la base de datos asociadas al modelo."""
         with app.app_context():
-            try:
-                db.create_all()
-                print("✅ Tablas creadas exitosamente en PostgreSQL.")
-            except Exception as e:
-                print(f"❌ Error al crear las tablas: {e}")
+            db.create_all()
+            print("Tablas creadas exitosamente.")
 
-    @staticmethod
-    def test_connection():
-        """Prueba la conexión a la base de datos."""
-        try:
-            with db.engine.connect() as connection:
-                result = connection.execute("SELECT 1")
-                return result.fetchone() is not None
-        except Exception as e:
-            print(f"❌ Error de conexión a la base de datos: {e}")
-            return False
+
+
+
+
 
 
 
